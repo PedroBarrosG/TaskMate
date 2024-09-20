@@ -10,7 +10,7 @@ Uma extensão simples para gerenciar suas tarefas diárias diretamente no Google
 ## Instalação como Extensão no Chrome
 1. Baixe o projeto ou clone o repositório.
    ```bash
-   git clone https://github.com/seu-usuario/to-do-list-extension.git
+   git clone https://github.com/PedroBarrosG/TaskMate
    ```
 2. Abra o Chrome e vá para chrome://extensions/.
 3. Ative o Modo de desenvolvedor no canto superior direito.
@@ -19,7 +19,7 @@ Uma extensão simples para gerenciar suas tarefas diárias diretamente no Google
 ## Instalação e Uso como Página HTML Simples
 1. Baixe o projeto ou clone o repositório.
   ```bash
-  git clone https://github.com/seu-usuario/to-do-list-extension.git
+  git clone https://github.com/PedroBarrosG/TaskMate
   ```
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo popout.html diretamente em um navegador.<br/>
