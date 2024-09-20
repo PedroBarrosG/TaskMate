@@ -1,4 +1,4 @@
-# To Do List - Extensão para Google Chrome
+# TaskMate - Extensão para Google Chrome
 
 ## Descrição
 Uma extensão simples para gerenciar suas tarefas diárias diretamente no Google Chrome. Adicione, conclua e exclua tarefas facilmente. As informações são armazenadas localmente no navegador para que você não perca suas tarefas entre sessões.
